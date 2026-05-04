@@ -114,3 +114,10 @@ body {
     background-color: #4335DE;
     color: #FFFFFF;
 }
+.insights-section {
+    background-color: #F3F8FF;
+}
+
+.insight-card-fixed {
+    background: #FFFFFF;
+}
