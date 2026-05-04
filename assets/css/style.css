@@ -159,3 +159,28 @@ body {
     font-weight: 600;
     margin: 0 15px;
 }
+.btn-primary-certo {
+    background-color: var(--certo-blue);
+    color: white !important;
+    border-radius: 50px;
+    padding: 8px 25px;
+    border: none;
+    font-weight: 600;
+}
+
+.btn-certo-yellow {
+    background-color: var(--certo-yellow);
+    color: var(--certo-dark-blue);
+    border-radius: 50px;
+    padding: 17px 30px;
+    font-weight: 700;
+}
+
+.btn-outline-android {
+    border: 3px solid var(--certo-dark-blue);
+    background: transparent;
+    color: var(--certo-dark-blue);
+    border-radius: 50px;
+    padding: 17px 30px;
+    font-weight: 700;
+}
