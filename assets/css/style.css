@@ -95,3 +95,11 @@ body {
 .certo-about-section {
     background-color: #FFFFFF;
 }
+.features-section-wrapper {
+    background: radial-gradient(circle at center, #FFFFFF 0%, #E7EFFA 100%);
+}
+
+.feature-main-card {
+    background-color: #FFFFFF;
+    border-radius: 48px;
+}
