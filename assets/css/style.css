@@ -17,3 +17,18 @@ body {
     color: var(--certo-dark-blue);
     overflow-x: hidden;
 }
+/* NAVBAR & HERO BACKGROUND */
+.navbar, .hero-section {
+    background: radial-gradient(circle at center, var(--bg-white) 0%, var(--bg-light-blue) 100%) !important;
+    border: none !important;
+}
+
+.navbar {
+    padding: 20px 0;
+}
+
+.nav-link {
+    color: var(--certo-dark-blue) !important;
+    font-weight: 600;
+    margin: 0 15px;
+}
