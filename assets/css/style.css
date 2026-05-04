@@ -84,3 +84,11 @@ body {
 .hero-phone-layer {
     position: absolute;
 }
+.testimonials-section {
+    background-color: #FFC247;
+}
+
+.testimonial-card {
+    background: #FFFFFF;
+    border-radius: 30px;
+}
